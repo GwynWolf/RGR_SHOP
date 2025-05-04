@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+dist/
+*.log
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Environment variables
+.env
+/uploads
